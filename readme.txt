@@ -4,7 +4,5 @@ creating a branch is quick and simple.
 
 add new dev
 
-git stash
-
 Git is a free software2.
 
